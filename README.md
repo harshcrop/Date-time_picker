@@ -1,4 +1,4 @@
-# datetime_picker
+# Date&time picker
 
 This is datapicker JS it is USe full for add datapicker in website or any software.
 
